@@ -1,6 +1,11 @@
 # Research-Paper-and-Formula-Created-by-Yeshwanth.P
 All the Accepted Research Paper are published here along with Certifcates
 
+**Totally published 3 Research Papers**
+1. Conducted many number of experiment and showed wearing Black dress in sunlight can lead to cancer(By Black Body Radition Theory(Physics))
+2. Visual of the Robot( Machine learning secrets and Artificial Intelligence on website)
+3. Bluebay Search Engine Optimization Formula( Created Own Formula for Search Engine Optimization)
+
 
 **Proof that Paper is Accepted**
 
